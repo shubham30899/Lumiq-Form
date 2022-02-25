@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+#main{
+    width: 98%;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 2px solid black;
+}
+h4{
+    
+    margin-top: 0%;
+    text-align: center;
+
+}
+
+#table1{
+    width: 100%;
+    border-collapse: collapse;
+}
+#table1 td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+  #table1 .t1{
+    border: 1px;
+}
+ .passport-photo{
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+  
+#pp{
+    background-color: orangered;
+    text-align: center;
+}
+#table2,#table3{
+    width: 100%;
+}
+input[type="checkbox"]{
+    width: 21px;
+    height: 18px;
+}
+td{
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.s1{
+    float: left;
+}
+
+.s2{
+    overflow: auto;
+    padding: 3px;
+}
+
+.s3{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.txt{
+    vertical-align: text-top;
+}
+
